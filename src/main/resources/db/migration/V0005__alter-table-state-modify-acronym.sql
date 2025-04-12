@@ -1,0 +1,1 @@
+ALTER TABLE state MODIFY acronym VARCHAR(3);

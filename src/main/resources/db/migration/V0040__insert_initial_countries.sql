@@ -1,0 +1,1 @@
+insert into country (external_id, name, acronym) values (UUID(), 'Brasil', 'BRA');

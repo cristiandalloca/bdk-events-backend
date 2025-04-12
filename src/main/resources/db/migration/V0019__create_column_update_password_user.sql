@@ -1,0 +1,1 @@
+ALTER TABLE user ADD COLUMN `update_password_next_login` BOOL NOT NULL DEFAULT 1 AFTER `active`;

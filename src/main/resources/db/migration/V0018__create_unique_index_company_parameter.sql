@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX U_IDX_COMPANY_PARAMETER_COMPANY ON company_parameter (company_id);

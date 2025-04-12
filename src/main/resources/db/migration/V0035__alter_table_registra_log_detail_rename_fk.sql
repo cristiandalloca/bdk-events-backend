@@ -1,0 +1,1 @@
+ALTER TABLE `request_log_detail` CHANGE `id_request_log` `request_log_id` int NOT NULL;
