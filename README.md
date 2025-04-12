@@ -75,7 +75,7 @@ Migrar um sistema legado feito em PHP (cerca de 2010) para uma arquitetura moder
 
 ## 📸 Prints do Projeto
 
-![image](https://github.com/user-attachments/assets/f48770ca-a37a-46a6-8984-986e08f8d156)
+![image](https://github.com/user-attachments/assets/0ae6f75f-8c0e-4849-a1cd-c9e88b46130c)
 
 
 ---
